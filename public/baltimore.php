@@ -1,15 +1,11 @@
 <?php
-header('Location: https://indieweb.org/Category:2018');
-die();
-
-
-$event = 'summit';
-$title = 'IndieWeb Summit';
-$date = 'June 24-25, 2017';
-$year = 2017;
-$city = 'Portland, Oregon';
-$url = 'https://2017.indieweb.org/';
-$summary = 'The seventh annual gathering for independent web creators of all kinds, from graphic artists, to designers, UX engineers, coders, hackers, to share ideas, actively work on creating for their own personal websites, and build upon each others creations.';
+$event = 'baltimore';
+$title = 'IndieWebCamp Baltimore';
+$date = 'Jan 20-21, 2018';
+$year = 2018;
+$city = 'Baltimore, Maryland';
+$url = 'https://2018.indieweb.org/baltimore';
+$summary = 'IndieWebCamp Baltimore 2018 is a gathering for independent web creators of all kinds, from graphic artists, to designers, UX engineers, coders, hackers, to share ideas, actively work on creating for their own personal websites, and build upon each others creations.';
 include(dirname(__FILE__).'/../lib/rsvps.php');
 ?>
 <!DOCTYPE html>
@@ -119,10 +115,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
   <div class="ui vertical stripe segment" id="register">
     <div class="ui text container">
       <h3 class="ui header">Register</h3>
-
-      <tito-widget event="indiewebcamp/summit-2017"><a href="http://tickets.indieweb.org/indiewebcamp/summit-2017">Get Tickets</a></tito-widget>
-
-      <p style="font-size: 0.9em; margin-top: 0.5em;">Have a discount code? <a href="https://ti.to/indiewebcamp/summit-2017">Enter it here!</a></p>
+      <tito-widget event="indiewebcamp/baltimore-2018"><a href="https://ti.to/indiewebcamp/baltimore-2018">Get Tickets</a></tito-widget>
 
     </div>
   </div>
@@ -197,8 +190,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
       <p><?= $title ?> &bull; <?= $date ?> &bull; <?= $city ?></p>
       <ul>
         <li><a href="https://indieweb.org/">IndieWebCamp Home Page</a></li>
-        <li><a href="https://indieweb.org/code-of-conduct">IndieWeb Code of Conduct</a></li>
-        <li><a href="https://www.mozilla.org/en-US/about/governance/policies/participation/">Mozilla Community Participation Guidelines</a></li>
+        <li><a href="https://indieweb.org/code-of-conduct">Code of Conduct</a></li>
         <li><a href="https://indieweb.org/images/2/2d/indiewebcamp-sponsorship-prospectus.pdf">Sponsorship Prospectus</a> (PDF)</li>
       </ul>
     </div>
@@ -208,7 +200,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 <script>
 var map = L.map('map', {
   scrollWheelZoom: false,
-  center: [45.523459, -122.682703],
+  center: [39.277222, -76.612136],
   zoom: 13
 });
 
@@ -217,15 +209,15 @@ var layer = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/ligh
 });
 map.addLayer(layer);
 
-var marker = L.marker([45.523459, -122.682703]).addTo(map);
-marker.bindPopup("<b>Mozilla Portland</b><br>1120 NW Couch St. #320<br>Portland, Oregon").openPopup();
+var marker = L.marker([39.277222, -76.612136]).addTo(map);
+marker.bindPopup("<b>Digital Harbor Foundation Tech Center</b><br>1045 Light St.<br>Baltimore, Maryland").openPopup();
 
-var marker2 = L.marker([45.521450, -122.672375]).addTo(map);
-marker2.bindPopup("<b>Pine Street Market</b><br>126 SW 2nd St.<br>Portland, Oregon");
+// var marker2 = L.marker([45.526159, -122.675330]).addTo(map);
+// marker2.bindPopup("<b>Pints</b><br>412 NW 5th Ave.<br>Portland, Oregon");
 
-$(function(){
-  $(".popup").popup();
-});
+// $(function(){
+//   $(".popup").popup();
+// });
 
 </script>
 <script>

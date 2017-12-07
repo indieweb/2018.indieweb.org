@@ -14,13 +14,12 @@
     </div>
     <div class="details">
       <ul>
-        <li><span class="time">09:00</span> Doors open, badges, coffee, and breakfast!</li>
-        <li><span class="time">10:00</span> Introductions &amp; Personal Site Demos</li>
+        <li><span class="time">10:00</span> Doors open</li>
+        <li><span class="time">10:15</span> Introductions &amp; Personal Site Demos</li>
         <li><span class="time">11:00</span> Building Blocks</li>
-        <li><span class="time">11:30</span> Session Proposals &amp; Scheduling</li>
-        <li><span class="time">12:00</span> Group photo &amp; Lunch</li>
-        <li><span class="time">13:00</span> Sessions (45min)</li>
-        <li><span class="time">16:15</span> Last session</li>
+        <li><span class="time">12:00</span> Session Proposals &amp; Scheduling</li>
+        <li><span class="time">12:30</span> Group photo &amp; Lunch</li>
+        <li><span class="time">13:30</span> Sessions (45min)</li>
         <li><span class="time">17:00</span> Day 1 closing session, break, meetup later for dinner</li>
       </ul>
     </div>    
@@ -35,13 +34,13 @@
     </div>
     <div class="details">
       <ul>
-        <li><span class="time">09:00</span> Doors open, badges, coffee, and breakfast!</li>
-        <li><span class="time">09:30</span> Day 2 session scheduling</li>
-        <li><span class="time">10:00</span> Start creating!</li>
+        <li><span class="time">10:00</span> Doors open, badges, coffee, and breakfast!</li>
+        <li><span class="time">10:10</span> Day 2 kickoff &amp; session scheduling</li>
+        <li><span class="time">10:30</span> Start creating!</li>
         <li><span class="time">12:00</span> Group photo &amp; lunch</li>
         <li><span class="time">13:00</span> Creating sessions continue</li>
         <li><span class="time">16:00</span> Demos</li>
-        <li><span class="time">17:00</span> <span class="featured">Camp closed!</span></li>
+        <li><span class="time">17:15</span> <span class="featured">Camp closed!</span></li>
       </ul>
     </div>
   </div>
