@@ -5,18 +5,10 @@ $events = [
     'url' => '/'
   ],
   [
-    'folder' => 'bellingham',
-    'url' => '/bellingham'
+    'folder' => 'baltimore',
+    'url' => '/baltimore'
   ],
-  [
-    'folder' => 'nyc',
-    'url' => '/nyc'
-  ],
-  [
-    'folder' => 'austin',
-    'url' => '/austin'
-  ]
 ];
 
 $xrayBaseURL = 'https://xray.p3k.io';
-$targetBaseURL = 'https://2017.indieweb.org';
+$targetBaseURL = 'https://2018.indieweb.org';
