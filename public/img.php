@@ -23,7 +23,7 @@ switch($ext) {
     header('Content-type: image/svg+xml'); break;
 }
 
-$events = ['summit','bellingham','nyc','austin'];
+$events = ['summit','bellingham','nyc','austin','baltimore'];
 
 if(array_key_exists('event', $_GET) && in_array($_GET['event'], $events))
   $event = $_GET['event'];
