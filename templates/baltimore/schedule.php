@@ -40,7 +40,7 @@
         <li><span class="time">10:00</span> Start creating!</li>
         <li><span class="time">12:00</span> Group photo &amp; lunch</li>
         <li><span class="time">13:00</span> Creating sessions continue</li>
-        <li><span class="time">16:00</span> Demos</li>
+        <li><span class="time">16:00</span> <a href="https://indieweb.org/2017/Baltimore/Demos">Demos</a></li>
         <li><span class="time">17:15</span> <span class="featured">Camp closed!</span></li>
       </ul>
     </div>
