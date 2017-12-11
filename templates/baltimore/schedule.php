@@ -19,8 +19,8 @@
         <li><span class="time">10:45</span> IndieWeb Building Blocks</li>
         <li><span class="time">11:30</span> Session Proposals &amp; Scheduling</li>
         <li><span class="time">12:00</span> Group photo &amp; Lunch</li>
-        <li><span class="time">13:15 - 16:50</span> <a href="https://indieweb.org/2017/Baltimore/Sessions">Sessions</a> (50min)</li>
-        <li><span class="time">17:00 - 17:30</span> Break, Day 1 Closing Session</li>
+        <li><span class="time">13:15 - 17:40</span> <a href="https://indieweb.org/2017/Baltimore/Sessions">Sessions</a> (50min)</li>
+        <li><span class="time">17:45 - 18:00</span> Intro to Day 2</li>
         <li>Self-Organized Dinner</li>
       </ul>
     </div>    
@@ -40,7 +40,7 @@
         <li><span class="time">10:00</span> Start creating!</li>
         <li><span class="time">12:00</span> Group photo &amp; lunch</li>
         <li><span class="time">13:00</span> Creating sessions continue</li>
-        <li><span class="time">16:00</span> <a href="https://indieweb.org/2017/Baltimore/Demos">Demos</a></li>
+        <li><span class="time">16:00</span> Demos</li>
         <li><span class="time">17:15</span> <span class="featured">Camp closed!</span></li>
       </ul>
     </div>
@@ -51,12 +51,24 @@
 
 <!--
 
-55-minute session + 5 minute break
+45-minute sessions + 10 minute break
 
-13:15 - 14:10
-14:15 - 15:10
-15:15 - 16:10
-16:15 - 17:10
-17:20 - 17:30 Closing Session
+13:15 - 14:00
+14:10 - 14:55
+15:05 - 15:50
+16:00 - 16:45
+16:55 - 17:40
+17:45 - 18:00 Intro to Day 2
+
+
+45-minute sessions + 10 minute break
+
+13:30 - 14:15
+14:25 - 15:10
+15:25 - 16:05
+16:15 - 17:00
+17:10 - 17:55
+17:55 - 18:00 Intro to Day 2
 
 -->
+
