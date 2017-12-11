@@ -14,13 +14,13 @@
     </div>
     <div class="details">
       <ul>
-        <li><span class="time">10:00</span> Doors open</li>
-        <li><span class="time">10:15</span> Introductions &amp; Personal Site Demos</li>
-        <li><span class="time">11:00</span> Building Blocks</li>
-        <li><span class="time">12:00</span> Session Proposals &amp; Scheduling</li>
-        <li><span class="time">12:30</span> Group photo &amp; Lunch</li>
-        <li><span class="time">13:30</span> Sessions (45min)</li>
-        <li><span class="time">17:00</span> Day 1 closing session, break, meetup later for dinner</li>
+        <li><span class="time">9:00</span> Doors open</li>
+        <li><span class="time">10:00</span> Introductions &amp; Personal Site Demos</li>
+        <li><span class="time">10:45</span> IndieWeb Building Blocks</li>
+        <li><span class="time">11:30</span> Session Proposals &amp; Scheduling</li>
+        <li><span class="time">12:00</span> Group photo &amp; Lunch</li>
+        <li><span class="time">13:00</span> <a href="https://indieweb.org/2017/Baltimore/Sessions">Sessions</a> (45min)</li>
+        <li><span class="time">17:00</span> Day 1 closing, break, self-organized dinner</li>
       </ul>
     </div>    
   </div>
@@ -34,9 +34,9 @@
     </div>
     <div class="details">
       <ul>
-        <li><span class="time">10:00</span> Doors open, badges, coffee, and breakfast!</li>
-        <li><span class="time">10:10</span> Day 2 kickoff &amp; session scheduling</li>
-        <li><span class="time">10:30</span> Start creating!</li>
+        <li><span class="time">9:00</span> Doors open, badges, coffee, and breakfast!</li>
+        <li><span class="time">9:30</span> Day 2 kickoff &amp; project intros</li>
+        <li><span class="time">10:00</span> Start creating!</li>
         <li><span class="time">12:00</span> Group photo &amp; lunch</li>
         <li><span class="time">13:00</span> Creating sessions continue</li>
         <li><span class="time">16:00</span> Demos</li>
@@ -47,5 +47,5 @@
 </div>
 
 <br>
-<p>Schedule is subject to change. View the <a href="https://indieweb.org/2018/Baltimore/Schedule">full schedule grid</a> on the IndieWeb wiki for the latest updates.</p>
+
 
