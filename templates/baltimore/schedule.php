@@ -19,7 +19,7 @@
         <li><span class="time">10:45</span> IndieWeb Building Blocks</li>
         <li><span class="time">11:30</span> Session Proposals &amp; Scheduling</li>
         <li><span class="time">12:00</span> Group photo &amp; Lunch</li>
-        <li><span class="time">13:15 - 17:40</span> <a href="https://indieweb.org/2018/Baltimore/Sessions">Sessions</a> (50min)</li>
+        <li><span class="time">13:15 - 17:40</span> <a href="https://indieweb.org/2018/Baltimore/Sessions">Sessions</a> (45min)</li>
         <li><span class="time">17:45 - 18:00</span> Intro to Day 2</li>
         <li>Self-Organized Dinner</li>
       </ul>
