@@ -7,17 +7,17 @@
   <div class="day">
     <div class="header orange-bkg">
       Saturday, January 20<br>
-      <span class="featured">Keynotes &amp; Discussions</span>
+      <span class="featured">Learn, Share, Discuss!</span>
     </div>
     <div class="summary">
-      Day 1 starts with keynotes, including major milestones, accomplishments in the past year, and demos, then BarCamp-style brainstorming and discussion sessions.
+      Day 1 starts with introductions, demos of personal sites, a review of the IndieWeb community and development building blocks, then BarCamp-style brainstorming and discussion sessions.
     </div>
     <div class="details">
       <ul>
         <li><span class="time">9:00</span> Doors open</li>
         <li><span class="time">10:00</span> Introductions &amp; Personal Site Demos</li>
         <li><span class="time">10:45</span> IndieWeb Building Blocks</li>
-        <li><span class="time">11:30</span> Session Proposals &amp; Scheduling</li>
+        <li><span class="time">11:30</span> <a href="https://indieweb.org/session_facilitating">Session Proposals &amp; Scheduling</a></li>
         <li><span class="time">12:00</span> Group photo &amp; Lunch</li>
         <li><span class="time">13:15 - 17:40</span> <a href="https://indieweb.org/2018/Baltimore/Sessions">Sessions</a> (45min)</li>
         <li><span class="time">17:45 - 18:00</span> Intro to Day 2</li>
