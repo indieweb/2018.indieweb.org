@@ -5,6 +5,27 @@
 
 <div class="schedule-grid">
   <div class="day">
+    <div class="header gold-bkg">
+        <time class="dt-start" datetime="2018-01-29T19:00:00-0500">Friday, January 19th</time><br/>
+        <span class="featured">Pre-Camp Meetup</span>
+    </div>
+    <div class="summary">
+        The Pre-Camp Meetup is an informal social meetup for IndieWebCamp participants to catch up and get to know each other before the camp. 
+    </div>
+    <div class="details">
+        <ul>
+            <li><span class="time">19:00</span> <span class="featured">Pre-Camp Meetup!</span></li>
+        </ul>
+        <span><a href="http://joesquared.com/">Joe Squared</a><br/><span>33 W. North Ave.</span></span>
+        <p style="font-size:0.8em; margin-top: 1em;">Joe Squared is in Baltimore's Station North with great pizza, risotto, drink options, and more. Vegan and GF friendly.</p>
+        <ul>
+            <li><span class="time">21:00</span> <span class="featured">IndieWeb-themed* Comedy Show</span></li>
+        </ul>
+        <span><a href="http://www.bigimprov.org/">Baltimore Improv Group</a><br/><span>1727 N. Charles St.</span></span>
+        <p style="font-size:0.8em; margin-top: 1em;">The Baltimore Improv Group (BIG) is a non-profit for improvisational theatre shows and instruction. Co-organizer Marty will be appearing in the evening's 9PM show.</p>
+    </div>
+  </div>
+  <div class="day">
     <div class="header orange-bkg">
       Saturday, January 20<br>
       <span class="featured">Learn, Share, Discuss!</span>
