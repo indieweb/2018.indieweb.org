@@ -36,7 +36,7 @@
     <div class="details">
       <ul>
         <li><span class="time">9:00</span> Doors open</li>
-        <li><span class="time">10:00</span> Introductions &amp; Personal Site Demos</li>
+        <li><span class="time">10:00</span> <a href="https://indieweb.org/2018/Baltimore/Introductions">Introductions &amp; Personal Site Demos</a></li>
         <li><span class="time">10:45</span> IndieWeb Building Blocks</li>
         <li><span class="time">11:30</span> <a href="https://indieweb.org/session_facilitating">Session Proposals &amp; Scheduling</a></li>
         <li><span class="time">12:00</span> Group photo &amp; Lunch</li>
