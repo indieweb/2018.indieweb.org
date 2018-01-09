@@ -131,7 +131,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 
       <h3 class="ui header">Tickets</h3>
 
-      <p>The people below registered for a ticket through the registration system.</p>
+      <p>Please still register for a ticket above, which the organizers use to know how much food to provide!</p>
       <?php include('../templates/show-tito-tickets.php'); ?>
 
     </div>
