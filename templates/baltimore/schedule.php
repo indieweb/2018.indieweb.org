@@ -5,19 +5,40 @@
 
 <div class="schedule-grid">
   <div class="day">
-    <div class="header orange-bkg">
-      Saturday, January 20<br>
-      <span class="featured">Keynotes &amp; Discussions</span>
+    <div class="header gold-bkg">
+        <time class="dt-start" datetime="2018-01-29T19:00:00-0500">Friday, January 19th</time><br/>
+        <span class="featured">Pre-Camp Meetup</span>
     </div>
     <div class="summary">
-      Day 1 starts with keynotes, including major milestones, accomplishments in the past year, and demos, then BarCamp-style brainstorming and discussion sessions.
+        The Pre-Camp Meetup is an informal social meetup for IndieWebCamp participants to catch up and get to know each other before the camp. 
+    </div>
+    <div class="details">
+        <ul>
+            <li><span class="time">19:00</span> <span class="featured">Pre-Camp Meetup!</span></li>
+        </ul>
+        <span><a href="http://joesquared.com/">Joe Squared</a><br/><span>33 W. North Ave.</span></span>
+        <p style="font-size:0.8em; margin-top: 1em;">Joe Squared is in Baltimore's Station North with great pizza, risotto, drink options, and more. Vegan and GF friendly.</p>
+        <ul>
+            <li><span class="time">21:00</span> <span class="featured">IndieWeb-themed* Comedy Show</span></li>
+        </ul>
+        <span><a href="http://www.bigimprov.org/">Baltimore Improv Group</a><br/><span>1727 N. Charles St.</span></span>
+        <p style="font-size:0.8em; margin-top: 1em;">The Baltimore Improv Group (BIG) is a non-profit for improvisational theatre shows and instruction. Co-organizer Marty will be appearing in the evening's 9PM show.</p>
+    </div>
+  </div>
+  <div class="day">
+    <div class="header orange-bkg">
+      Saturday, January 20<br>
+      <span class="featured">Learn, Share, Discuss!</span>
+    </div>
+    <div class="summary">
+      Day 1 starts with introductions, demos of personal sites, a review of the IndieWeb community and development building blocks, then BarCamp-style brainstorming and discussion sessions.
     </div>
     <div class="details">
       <ul>
         <li><span class="time">9:00</span> Doors open</li>
-        <li><span class="time">10:00</span> Introductions &amp; Personal Site Demos</li>
+        <li><span class="time">10:00</span> <a href="https://indieweb.org/2018/Baltimore/Introductions">Introductions &amp; Personal Site Demos</a></li>
         <li><span class="time">10:45</span> IndieWeb Building Blocks</li>
-        <li><span class="time">11:30</span> Session Proposals &amp; Scheduling</li>
+        <li><span class="time">11:30</span> <a href="https://indieweb.org/session_facilitating">Session Proposals &amp; Scheduling</a></li>
         <li><span class="time">12:00</span> Group photo &amp; Lunch</li>
         <li><span class="time">13:15 - 17:40</span> <a href="https://indieweb.org/2018/Baltimore/Sessions">Sessions</a> (45min)</li>
         <li><span class="time">17:45 - 18:00</span> Intro to Day 2</li>
