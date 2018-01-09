@@ -8,6 +8,10 @@ $events = [
     'folder' => 'baltimore',
     'url' => '/baltimore'
   ],
+  [
+    'folder' => 'nuremberg',
+    'url' => '/nuremberg'
+  ],
 ];
 
 $xrayBaseURL = 'https://xray.p3k.io';
