@@ -1,15 +1,11 @@
 <?php
-header('Location: https://indieweb.org/Category:2018');
-die();
-
-
 $event = 'summit';
 $title = 'IndieWeb Summit';
-$date = 'June 24-25, 2017';
-$year = 2017;
+$date = 'June 26-27, 2018';
+$year = 2018;
 $city = 'Portland, Oregon';
-$url = 'https://2017.indieweb.org/';
-$summary = 'The seventh annual gathering for independent web creators of all kinds, from graphic artists, to designers, UX engineers, coders, hackers, to share ideas, actively work on creating for their own personal websites, and build upon each others creations.';
+$url = 'https://2018.indieweb.org/';
+$summary = 'The eighth annual gathering for independent web creators of all kinds, from graphic artists, to designers, UX engineers, coders, hackers, to share ideas, actively work on creating for their own personal websites, and build upon each others creations.';
 include(dirname(__FILE__).'/../lib/rsvps.php');
 ?>
 <!DOCTYPE html>
@@ -36,7 +32,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
   <meta property="og:type" content="website">
   <meta property="og:title" content="<?= $title ?> - <?= $date ?> - <?= $city ?>">
   <meta property="og:description" content="<?= htmlspecialchars($summary) ?>">
-  <meta property="og:image" content="https://2017.indieweb.org/assets/2014-indieweb-movement.jpg">
+  <meta property="og:image" content="https://2018.indieweb.org/assets/2014-indieweb-movement.jpg">
 
   <script>
   $(document)
@@ -70,7 +66,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 <div class="ui large top fixed hidden menu">
   <div class="ui container">
     <?php include('../templates/'.$event.'/nav.php'); ?>
-<!--     
+<!--
     <div class="right menu">
       <div class="item">
         <a class="ui primary button">Sign Up</a>
@@ -120,9 +116,9 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
     <div class="ui text container">
       <h3 class="ui header">Register</h3>
 
-      <tito-widget event="indiewebcamp/summit-2017"><a href="http://tickets.indieweb.org/indiewebcamp/summit-2017">Get Tickets</a></tito-widget>
+      <tito-widget event="indiewebcamp/summit-2018"><a href="http://tickets.indieweb.org/indiewebcamp/summit-2018">Get Tickets</a></tito-widget>
 
-      <p style="font-size: 0.9em; margin-top: 0.5em;">Have a discount code? <a href="https://ti.to/indiewebcamp/summit-2017">Enter it here!</a></p>
+      <p style="font-size: 0.9em; margin-top: 0.5em;">Have a discount code? <a href="https://ti.to/indiewebcamp/summit-2018">Enter it here!</a></p>
 
     </div>
   </div>
@@ -198,7 +194,6 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
       <ul>
         <li><a href="https://indieweb.org/">IndieWebCamp Home Page</a></li>
         <li><a href="https://indieweb.org/code-of-conduct">IndieWeb Code of Conduct</a></li>
-        <li><a href="https://www.mozilla.org/en-US/about/governance/policies/participation/">Mozilla Community Participation Guidelines</a></li>
         <li><a href="https://indieweb.org/images/2/2d/indiewebcamp-sponsorship-prospectus.pdf">Sponsorship Prospectus</a> (PDF)</li>
       </ul>
     </div>
@@ -208,7 +203,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 <script>
 var map = L.map('map', {
   scrollWheelZoom: false,
-  center: [45.523459, -122.682703],
+  center: [45.518638, -122.686005],
   zoom: 13
 });
 
@@ -217,8 +212,8 @@ var layer = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/ligh
 });
 map.addLayer(layer);
 
-var marker = L.marker([45.523459, -122.682703]).addTo(map);
-marker.bindPopup("<b>Mozilla Portland</b><br>1120 NW Couch St. #320<br>Portland, Oregon").openPopup();
+var marker = L.marker([45.518638, -122.686005]).addTo(map);
+marker.bindPopup("<b>Eliot Center</b><br>1226 SW Salmon St<br>Portland, Oregon").openPopup();
 
 var marker2 = L.marker([45.521450, -122.672375]).addTo(map);
 marker2.bindPopup("<b>Pine Street Market</b><br>126 SW 2nd St.<br>Portland, Oregon");

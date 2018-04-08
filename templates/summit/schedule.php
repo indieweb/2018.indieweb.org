@@ -1,12 +1,12 @@
 <p>
-  <i class="calendar icon"></i> <time class="dt-start" datetime="2017-06-24">June 24</time>-<time class="dt-end" datetime="2017-06-25">25</time>, 2017<br>
-  <i class="marker icon"></i> <span class="h-card p-location"><span class="p-name">Mozilla Portland</span>, <span class="p-street-address">1120 NW Couch St #320</span>, <span class="p-locality">Portland</span>, <span class="p-region">Oregon</span></span>
+  <i class="calendar icon"></i> <time class="dt-start" datetime="2018-06-26">June 26</time>-<time class="dt-end" datetime="2018-06-27">27</time>, 2018<br>
+  <i class="marker icon"></i> <span class="h-card p-location"><span class="p-name">Eliot Center</span>, <span class="p-street-address">1226 SW Salmon St</span>, <span class="p-locality">Portland</span>, <span class="p-region">Oregon</span></span>
 </p>
 
 <div class="schedule-grid">
   <div class="day h-event">
     <div class="header gold-bkg">
-      <time class="dt-start" datetime="2017-06-23T19:00:00-0700">Friday, June 23</time><br>
+      <time class="dt-start" datetime="2018-06-25T19:00:00-0700">Monday, June 25</time><br>
       <span class="featured p-name">Pre-Summit Meetup</span>
     </div>
     <div class="summary p-description">
@@ -22,7 +22,7 @@
   </div>
   <div class="day">
     <div class="header orange-bkg">
-      Saturday, June 24<br>
+      Tuesday, June 26<br>
       <span class="featured">Keynotes &amp; Discussions</span>
     </div>
     <div class="summary">
@@ -31,19 +31,19 @@
     <div class="details">
       <ul>
         <li><span class="time">09:00</span> Doors open, badges, coffee, and breakfast!</li>
-        <li><span class="time">10:00</span> <span class="featured"><a href="https://indieweb.org/2017/Schedule#Saturday">Keynotes</a></span></li>
+        <li><span class="time">10:00</span> <span class="featured"><a href="https://indieweb.org/2018/Schedule#Tuesday">Keynotes</a></span></li>
         <li><span class="time">11:00</span> Lightning Intros &amp; Personal Site Demos</li>
         <li><span class="time">12:00</span> Group photo &amp; Lunch</li>
         <li><span class="time">13:30</span> Session Proposals &amp; Scheduling</li>
         <li><span class="time">14:00</span> Sessions (45min)</li>
         <li><span class="time">16:15</span> Last session</li>
-        <li><span class="time">17:00</span> Day 1 closing session, break, meetup later for dinner</li>
+        <li><span class="time">17:00</span> Day 1 closing session</li>
       </ul>
-    </div>    
+    </div>
   </div>
   <div class="day">
     <div class="header red-bkg">
-      Sunday, June 25<br>
+      Wednesday, June 27<br>
       <span class="featured">Create, Hack, Demo!</span>
     </div>
     <div class="summary">
@@ -65,5 +65,5 @@
 </div>
 
 <br>
-<p>Schedule is subject to change. View the <a href="https://indieweb.org/2017/Schedule">full schedule grid</a> on the IndieWeb wiki for the latest updates.</p>
+<p>Schedule is subject to change. View the <a href="https://indieweb.org/2018/Schedule">full schedule grid</a> on the IndieWeb wiki for the latest updates.</p>
 
