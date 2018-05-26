@@ -13,24 +13,29 @@
     <span class="logo">
       <a href="https://developer.okta.com/"><img src="https://indieweb.org/sponsor-logos/full/okta-logo.svg" style="width: 120px;"></a>
     </span>
-    <span class="description"><a href="https://developer.okta.com">Okta</a> provides an API that seamlessly handles multi-factor authentication and user registration for your applications.</span>
+    <span class="description"><a href="https://developer.okta.com">Okta</a> provides an API that seamlessly handles user registration and multi-factor authentication for your applications.</span>
   </li>
 
   <li>
     <span class="logo">
-      <a href="http://brid.gy/"><img src="https://indieweb.org/sponsor-logos/full/bridgy-logo.png" style="width: 140px;"></a>
+      <a href="https://godaddy.com/"><img src="https://indieweb.org/sponsor-logos/full/godaddy-logo.png" style="width: 140px;"></a>
+    </span>
+    <span class="description"><a href="https://indieweb.org/GoDaddy">GoDaddy</a> is a domain registrar and hosting company that supports the IndieWeb principles.</span>
+  </li>
+
+  <li>
+    <span class="logo">
+      <a href="https://brid.gy/"><img src="https://indieweb.org/sponsor-logos/full/bridgy-logo.png" style="width: 140px;"></a>
     </span>
     <span class="description"><a href="http://brid.gy/">Bridgy</a> is an open source project and proxy that implements backfeed as a service. Bridgy sends webmentions for comments, likes, etc. on Facebook, Twitter, Google+, and Instagram.</span>
   </li>
 
-<!--
   <li>
     <span class="logo">
       <a href="https://mozilla.org"><img src="https://indieweb.org/sponsor-logos/full/mozilla-logo.png" style="width: 130px;"></a>
     </span>
     <span class="description"><a href="https://mozilla.org">Mozilla</a> is a non-profit organization helping to keep the Internet healthy, open and accessible to all.</span>
   </li>
--->
 
 </ul>
 
