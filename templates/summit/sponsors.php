@@ -37,6 +37,13 @@
     <span class="description"><a href="https://mozilla.org">Mozilla</a> is a non-profit organization helping to keep the Internet healthy, open and accessible to all.</span>
   </li>
 
+  <li>
+    <span class="logo">
+      <a href="http://stumptownsyndicate.org/"><img src="https://indieweb.org/sponsor-logos/full/stumptown-syndicate-logo.png" style="width: 130px;"></a>
+    </span>
+    <span class="description">Our venue sponsor is <a href="http://stumptownsyndicate.org/">Stumptown Syndicate</a>, a non-profit organization that organizes conferences, meetups and projects in Portland.</span>
+  </li>
+
 </ul>
 
 
