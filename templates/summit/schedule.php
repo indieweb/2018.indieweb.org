@@ -64,6 +64,33 @@
   </div>
 </div>
 
+
+<h3 class="ui header">Guest Keynotes</h3>
+
+<div class="keynote-speakers">
+
+  <div class="speaker">
+    <a href="http://macgenie.micro.blog/"><img src="https://www.gravatar.com/avatar/c88aed8390a453c5b03f5ffb4d9c8651.jpg"></a>
+    <p class="name">Jean<br> MacDonald</p>
+    <p class="role">Community Manager, <br>Micro.blog</p>
+  </div>
+
+  <div class="speaker">
+    <a href="http://manton.org/"><img src="http://manton.org/images/2016/header_me.png"></a>
+    <p class="name">Manton<br> Reece</p>
+    <p class="role">Founder, <br>Micro.blog</p>
+  </div>
+
+  <div class="speaker">
+    <a href="http://williamhertling.com"><img src="https://pbs.twimg.com/profile_images/1877570126/Hertling2012_headshot_1280_200x200.jpg"></a>
+    <p class="name">William<br> Hertling</p>
+    <p class="role">Author, <br>Kill Process, Avogadro Corp</p>
+  </div>
+
+
+</div>
+
+
 <br>
 <p>Schedule is subject to change. View the <a href="https://indieweb.org/2018/Schedule">full schedule grid</a> on the IndieWeb wiki for the latest updates.</p>
 

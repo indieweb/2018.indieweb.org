@@ -65,7 +65,7 @@
     display: block;
   }
   .schedule-grid .day {
-    margin-top: 1em;    
+    margin-top: 1em;
   }
   .schedule-grid .summary {
     min-height: inherit;
@@ -149,8 +149,8 @@
   font-size: 3rem;
   color: white;
   text-align: left;
-  background-size: cover; 
-  color: white; 
+  background-size: cover;
+  color: white;
   padding-top: 4em;
   margin-bottom: 12px;
 }
@@ -368,5 +368,28 @@
     margin-top: 0.5em;
     font-size: 1.5em;
   }
+}
+
+.keynote-speakers {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.speaker {
+  text-align: center;
+  margin: 0 6px;
+  width: 25%;
+}
+.speaker img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.ui.vertical.stripe .speaker p.name {
+  font-size: 22px;
+}
+.ui.vertical.stripe .speaker p.role {
+  font-size: 14px;
 }
 

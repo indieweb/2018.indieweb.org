@@ -21,7 +21,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 
   <link rel="stylesheet" type="text/css" href="/semantic/semantic.min.css">
   <link rel="stylesheet" type="text/css" href="/assets/icomoon/style.css">
-  <link rel="stylesheet" type="text/css" href="/assets/styles.css">
+  <link rel="stylesheet" type="text/css" href="/assets/styles.css?2">
   <link rel="stylesheet" href="/assets/leaflet/leaflet.css" />
   <script src="/assets/jquery-2.2.0.min.js"></script>
   <script src="/semantic/semantic.min.js"></script>
