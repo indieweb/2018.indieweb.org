@@ -25,6 +25,13 @@
 
   <li>
     <span class="logo">
+      <a href="https://name.com/"><img src="/assets/namelogo.png" style="width: 140px;"></a>
+    </span>
+    <span class="description"><a href="https://indieweb.org/Name.com">Name.com</a> provides domain names, web hosting, and super easy websites. Unicorns and rainbows come standard with our customer support.</span>
+  </li>
+
+  <li>
+    <span class="logo">
       <a href="https://brid.gy/"><img src="https://indieweb.org/sponsor-logos/full/bridgy-logo.png" style="width: 140px;"></a>
     </span>
     <span class="description"><a href="http://brid.gy/">Bridgy</a> is an open source project and proxy that implements backfeed as a service. Bridgy sends webmentions for comments, likes, etc. on Facebook, Twitter, Google+, and Instagram.</span>
