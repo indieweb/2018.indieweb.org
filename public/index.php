@@ -60,10 +60,16 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
   ;
   </script>
 </head>
-<body class="h-event">
+<body class="h-event" style="padding-top: 40px !important;">
+
+<div style="display: block; position: fixed; top: 0; height: 40px; width: 100%; background: #E63630; text-align: center; z-index: 1000; color: white;">
+  <div style="padding: 10px;">
+    New: <a href="https://aaronparecki.com/2018/06/23/5/indieweb-summit" style="color: white; font-style: bold; text-decoration: underline;">Final details for IndieWeb Summit!</a>
+  </div>
+</div>
 
 <!-- Following Menu -->
-<div class="ui large top fixed hidden menu">
+<div class="ui large top fixed hidden menu" style="top: 40px;">
   <div class="ui container">
     <?php include('../templates/'.$event.'/nav.php'); ?>
 <!--
