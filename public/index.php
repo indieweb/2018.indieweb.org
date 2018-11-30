@@ -220,7 +220,7 @@ var marker = L.marker([45.518638, -122.686005]).addTo(map);
 marker.bindPopup("<b>Eliot Center</b><br>1226 SW Salmon St<br>Portland, Oregon").openPopup();
 
 var marker2 = L.marker([45.521450, -122.672375]).addTo(map);
-marker2.bindPopup("<b>Pine Street Market</b><br>126 SW 2nd St.<br>Portland, Oregon");
+marker2.bindPopup("<b>Pine Street Market</b><br>126 SW 2nd Ave.<br>Portland, Oregon");
 
 $(function(){
   $(".popup").popup();
