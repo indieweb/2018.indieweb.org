@@ -36,8 +36,7 @@
         <li><span class="time">12:00</span> Group photo &amp; Lunch</li>
         <li><span class="time">13:30</span> Session Proposals &amp; Scheduling</li>
         <li><span class="time">14:00</span> Sessions (45min)</li>
-        <li><span class="time">16:15</span> Last session</li>
-        <li><span class="time">17:00</span> Day 1 closing session</li>
+        <li><span class="time">17:30 - 17:45</span> Day 1 closing session</li>
       </ul>
     </div>
   </div>
