@@ -6,7 +6,7 @@
 <div class="schedule-grid">
   <div class="day">
     <div class="header gold-bkg">
-        <time class="dt-start" datetime="2018-01-29T19:00:00-0500">Friday, January 19th</time><br/>
+        Friday, January 19th<br/>
         <span class="featured">Pre-Camp Meetup</span>
     </div>
     <div class="summary">
