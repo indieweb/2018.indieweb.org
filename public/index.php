@@ -117,7 +117,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 
   </div>
 
-
+  <!--
   <div class="ui vertical stripe segment" id="register">
     <div class="ui text container">
       <h3 class="ui header">Register</h3>
@@ -128,7 +128,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 
     </div>
   </div>
-
+  -->
 
   <div class="ui vertical stripe segment" id="rsvps">
     <div class="ui text container">
