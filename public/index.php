@@ -64,7 +64,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 
 <div style="display: block; position: fixed; top: 0; height: 40px; width: 100%; background: #E63630; text-align: center; z-index: 1000; color: white;">
   <div style="padding: 10px;">
-    New: <a href="https://aaronparecki.com/2018/06/23/5/indieweb-summit" style="color: white; font-style: bold; text-decoration: underline;">Final details for IndieWeb Summit!</a>
+    <a href="https://2019.indieweb.org/summit" style="color: white; font-style: bold; text-decoration: underline;">IndieWeb Summit 2019 has been announced!</a>
   </div>
 </div>
 
